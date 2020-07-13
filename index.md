@@ -4,7 +4,6 @@
     Saturday, September 12, 2020
 2.  Place
     Online
-中文
 
 ## Markdown
 
