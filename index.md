@@ -1,10 +1,8 @@
 ## Overview
 
-1.  日期 Date
-    2020 年 9 月 12 日 星期六
+1.  Date
     Saturday, September 12, 2020
-2.  地點 Place
-    線上進行
+2.  Place
     Online
 
 
