@@ -22,7 +22,7 @@
    <br>
    Please visit the official website of the ICPC:<br>
    [https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020)
-6. **報名期限 Registration Deadline**
+6. **報名期限 Registration Deadline**<br>
    2020 年 9 月 9 日 星期三
    Wednesday, September 9, 2020
 
