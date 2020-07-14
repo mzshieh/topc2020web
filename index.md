@@ -125,3 +125,31 @@ Tentative practice session: 12:30-23:30 on 11 September 2019 (GMT+8)
 + **競賽時間：**<br>
 2019 年 10 月 05 日 上午九點至中午十二點 (台灣時間)<br>
 Contest time: 09:00-12:00 on 5 Octobor 2019 (GMT+8)
+
+## Judge Environment
+
++ **Hardware**<br>
+To be determined
+
++ **OS**<br>
+Linux 4.14 or Later
+
++ **Distribution**<br>
+To be determined
+
++ **Compilers / Interpreters**
+    + C/C++: GNU Compiler Collections 9.1.0 or later
+    + Java: OpenJDK 12.0.2 or later
+    + Kotlin: 1.3.41 or later (on OpenJDK JRE 12.0.2 or later)
+    + Python 3: 3.7.4 (CPython)
+    + Python 2: 2.7.13 (PyPy 7.1.1)
+
++ **Options for Compiler or Run-time Environment**
+    + C++: `g++ -std=c++17 -x c++ -Wall -O2 -static -pipe`
+    + C: `gcc -std=c18 -x c -Wall -O2 -static -pipe YOUR_SOURCE_CODE.c -lm`
+    + Java (compile): `javac -encoding UTF-8` 
+    + Java (run): `java -Dfile.encoding=UTF-8 -XX:+UseSerialGC`
+    + Kotlin (compile): `kotlinc`
+    + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
+
+## 
