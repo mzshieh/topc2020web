@@ -4,8 +4,8 @@
    2020 年 9 月 12 日 星期六 <br>
    Saturday, September 12, 2020
 2. **地點 Place** <br>
-   線上 <br>
-   Online
+   線上：網站連結將於 2020 年 9 月 11 日之前公佈 <br>
+   Online: we will announce the link to the website before September 11, 2020.
 3. **競賽時間 Contest Time** <br>
    上午九點至中午十二點 (三小時) <br>
    From 9:00 AM to 12:00 PM (3 hours)
@@ -152,4 +152,6 @@ To be determined
     + Kotlin (compile): `kotlinc`
     + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
 
-## 
+## Contact
+2019 ICPC Taiwan Online Programming Contest Director:
+Min-Zheng Shieh (E-mail: mzshieh@icpc.tw)
