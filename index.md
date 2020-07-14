@@ -60,33 +60,49 @@ The coach has to submit a form to declare that the team abides by the rules
 during the contest. Contestants will be disqualified if they violate the 
 following rules.
 
-1. **不得使用機器可讀的資料 No machine-readable preparation**
+1. **不得使用機器可讀的資料 No machine-readable preparation**<br>
 不得使用任何機器可讀的資料，如預先寫好存放於電腦中的程式碼。
 但可以使用紙本資料，如教科書、字典、筆記以及列印好的紙本程式碼。<br>
 No machine-readable materials (e.g., source codes, templates, etc.) 
 are allowed. However, paper-based materials, such as textbooks, 
 dictionaries, printed notes, etc., are allowed.
-2. **僅與隊友接觸 Only contact teammates**
+2. **僅與隊友接觸 Only contact teammates**<br>
 在比賽過程中，參賽者只能與隊友討論。
 競賽期間與教練或其他隊伍聯繫均屬違規行為。<br>
 Contestants are only allowed to contact their teammates during the contest. 
 Contestants shall not discuss with their coach and other teams.
-3. **網路使用限制 Limited accesses**
+3. **網路使用限制 Limited accesses**<br>
 參賽者只能夠透過網路下載題目敘述、上傳解答程式碼、提問澄清疑點與查看計分板。
 使用網路存取其他資訊均屬違規。<br>
 Contestants shall only access the internet for downloading the problem 
 description, submitting source codes, requesting problem clarification 
 and checking the scoreboard. Any other type of internet access is prohibited.
-4. **限用一台電腦 One computer**
+4. **限用一台電腦 One computer**<br>
 每個隊伍僅可使用一台電腦撰寫程式與上傳程式碼。
 於競賽期間除使用印表機列印題目與程式碼以及透過額外的螢幕閱讀題目之外，
 不得使用任何其他電子裝置。<br>
 A team shall not simultaneously use more than one computer to write programs 
 during the contest. Contestant shall not use any other type of electronic 
 devices, except extra monitors and printers.
-5. **禁止惡意行為 No malicious actions**
+5. **禁止惡意行為 No malicious actions**<br>
 不得做出任何意圖妨礙比賽進行及影響比賽公平性的惡意行為。<br>
 All malicious actions interfering the contest are prohibited.
 
 ### Scoring & Ranking
 
++ **計分與排名 Scoring & Ranking** <br>
+隊伍以解題數量多者排名較前，解題數量相同時，以總消耗時間少者排名較前。
+答對的題目的消耗時間計算方式為比賽開始至解出題目所消耗的分鐘數。
+如解出前有答錯，每答錯一次需要另加20 分鐘。
+總消耗時間為所有答對題目的消耗時間加總。未答對的題目不計消耗時間。<br>
+Teams are ranked according to the most problems solved. 
+Teams who solve the same number of problems are ranked by least total time. 
+The total time is the sum of the time consumed for each problem solved. 
+The time consumed for a solved problem is the time elapsed from the beginning 
+of the contest to the submittal of the accepted run plus 20 penalty minutes 
+for every rejected run for that problem regardless of submittal time. 
+There is no time consumed for a problem that is not solved.
+
++ **平手判定 Tie-Breaker**<br>
+解題數與消耗時間均相同時，以先答對最後一題者獲勝。<br>
+If multiple teams have the same number of problems solved and total time, then the winner goes to the team which first submitted their last accepted solution.
