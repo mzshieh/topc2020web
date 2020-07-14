@@ -88,7 +88,7 @@ devices, except extra monitors and printers.
 不得做出任何意圖妨礙比賽進行及影響比賽公平性的惡意行為。<br>
 All malicious actions interfering the contest are prohibited.
 
-### Scoring & Ranking
+## Scoring & Ranking
 
 + **計分與排名 Scoring & Ranking** <br>
 隊伍以解題數量多者排名較前，解題數量相同時，以總消耗時間少者排名較前。
@@ -105,4 +105,23 @@ There is no time consumed for a problem that is not solved.
 
 + **平手判定 Tie-Breaker**<br>
 解題數與消耗時間均相同時，以先答對最後一題者獲勝。<br>
-If multiple teams have the same number of problems solved and total time, then the winner goes to the team which first submitted their last accepted solution.
+If multiple teams have the same number of problems solved and total time, 
+then the winner goes to the team which first submitted their last accepted 
+solution.
+
+## Important Dates
+
++ **註冊截止日期：**<br>
+2020 年 9 月 9 日<br>
+End of registration: 9 September 2020
++ **寄發隊伍帳號密碼：**<br>
+2020 年 9 月 10 日寄發給教練<br>
+Team account information will be delivered to the coach by 10 September 2020.
+
++ **測試時間：**<br>
+2020 年 9 月 11 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Tentative practice session: 12:30-23:30 on 11 September 2019 (GMT+8)
+
++ **競賽時間：**<br>
+2019 年 10 月 05 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 09:00-12:00 on 5 Octobor 2019 (GMT+8)
