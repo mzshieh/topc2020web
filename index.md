@@ -153,5 +153,5 @@ To be determined
     + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
 
 ## Contact
-2019 ICPC Taiwan Online Programming Contest Director:
+2019 ICPC Taiwan Online Programming Contest Director:<br>
 Min-Zheng Shieh (E-mail: mzshieh@icpc.tw)
