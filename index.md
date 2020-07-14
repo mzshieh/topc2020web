@@ -1,10 +1,12 @@
 ## Overview
 
-###  日期 Date
+1.  日期 Date
+     2020 年 9 月 12 日 星期六 <br>
      Saturday, September 12, 2020
-###  Place
+
+2.  地點 Place
+     線上 <br>
      Online
-###  Contest 
 
 ## Markdown
 
