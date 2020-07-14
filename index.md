@@ -128,6 +128,9 @@ Contest time: 09:00-12:00 on 5 Octobor 2019 (GMT+8)
 
 ## Judge Environment
 
++ **Judge System**<br>
+DOMjudge 7.0 or later
+
 + **Hardware**<br>
 To be determined
 
