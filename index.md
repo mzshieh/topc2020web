@@ -120,11 +120,11 @@ Team account information will be delivered to the coach by 10 September 2020.
 
 + **測試時間：**<br>
 2020 年 9 月 11 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on 11 September 2019 (GMT+8)
+Tentative practice session: 12:30-23:30 on 11 September 2020 (GMT+8)
 
 + **競賽時間：**<br>
-2019 年 10 月 05 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 09:00-12:00 on 5 Octobor 2019 (GMT+8)
+2020 年 9 月 12 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 09:00-12:00 on 12 September 2020 (GMT+8)
 
 ## Judge Environment
 
@@ -156,5 +156,5 @@ To be determined
     + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
 
 ## Contact
-2019 ICPC Taiwan Online Programming Contest Director:<br>
+2020 ICPC Taiwan Online Programming Contest Director:<br>
 Min-Zheng Shieh (E-mail: mzshieh@icpc.tw)
