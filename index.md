@@ -41,7 +41,7 @@
 A team must have a coach, three contestants and at most one reserved 
 team member. The coach must be authorized to represent the school. 
 The coach certifies the eligibilities of the contestants and 
-is the official point-of- contact. All contestants and reserved team 
+is the official point-of-contact. All contestants and reserved team 
 member must satisfy the ICPC official rules. None of them may serve as a coach.
 
 ## Ethics
@@ -156,5 +156,4 @@ To be determined
     + Kotlin (run): `kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialG`
 
 ## Contact
-2020 ICPC Taiwan Online Programming Contest Director:<br>
-Min-Zheng Shieh (E-mail: mzshieh@icpc.tw)
+Contest Managers: topc2020@icpc.tw
