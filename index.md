@@ -113,18 +113,18 @@ solution.
 
 + **註冊截止日期：**<br>
 2020 年 9 月 9 日<br>
-End of registration: 9 September 2020
+End of registration: September 9, 2020
 + **寄發隊伍帳號密碼：**<br>
 2020 年 9 月 10 日寄發給教練<br>
-Team account information will be delivered to the coach by 10 September 2020.
+Team account information will be delivered to the coach by September 10, 2020.
 
 + **測試時間：**<br>
 2020 年 9 月 11 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on 11 September 2020 (GMT+8)
+Tentative practice session: 12:30-23:30 on September 11, 2020 (GMT+8)
 
 + **競賽時間：**<br>
 2020 年 9 月 12 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 09:00-12:00 on 12 September 2020 (GMT+8)
+Contest time: 09:00-12:00 on September 12, 2020 (GMT+8)
 
 ## Judge Environment
 
