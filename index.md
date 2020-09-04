@@ -29,15 +29,15 @@ The contest is postponed to Octobor 7, 2020. The contest time is from 18:00 to 2
    Please visit the official website of the ICPC:<br>
    [https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020)
 6. **報名期限 Registration Deadline**<br>
-   2020 年 9 月 9 日 星期三
-   Wednesday, September 9, 2020
+   2020 年 10 月 3 日 星期日
+   Sunday, October 3, 2020
 
 ## Eligibility
 
 + **基本資格規範 Basic Eligibility Rules** <br>
-  請參照 ICPC [官方規範2019版本(連結)](https://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2019.pdf)。之後有更新會再提供新版。<br>
+  請參照 ICPC [官方規範(連結)](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf)。<br>
   The eligibility rules are contained in the official regional 
-  [rules (ver. 2019)](https://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2019.pdf) on the ICPC website. We will update the rule later.
+  [rules](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf) on the ICPC website.
 
 + **隊伍組成 Team Composition** <br>
 每隊由一名教練、三名參賽隊員、至多一名候補隊員組成。
@@ -118,19 +118,19 @@ solution.
 ## Important Dates
 
 + **註冊截止日期：**<br>
-2020 年 9 月 9 日<br>
-End of registration: September 9, 2020
+2020 年 10 月 3 日<br>
+End of registration: October 3, 2020
 + **寄發隊伍帳號密碼：**<br>
-2020 年 9 月 10 日寄發給教練<br>
-Team account information will be delivered to the coach by September 10, 2020.
+2020 年 10 月 4 日寄發給教練<br>
+Team account information will be delivered to the coach by October 4, 2020.
 
 + **測試時間：**<br>
-2020 年 9 月 11 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
-Tentative practice session: 12:30-23:30 on September 11, 2020 (GMT+8)
+2020 年 10 月 6 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
+Tentative practice session: 12:30-23:30 on October 6, 2020 (GMT+8)
 
 + **競賽時間：**<br>
-2020 年 9 月 12 日 上午九點至中午十二點 (台灣時間)<br>
-Contest time: 09:00-12:00 on September 12, 2020 (GMT+8)
+2020 年 10 月 7 日 上午九點至中午十二點 (台灣時間)<br>
+Contest time: 18:00-21:00 on October 7, 2020 (GMT+8)
 
 ## Judge Environment
 
@@ -148,8 +148,8 @@ To be determined
 
 + **Compilers / Interpreters**
     + C/C++: GNU Compiler Collections 9.1.0 or later
-    + Java: OpenJDK 12.0.2 or later
-    + Kotlin: 1.3.41 or later (on OpenJDK JRE 12.0.2 or later)
+    + Java: OpenJDK 11.0.0 or later
+    + Kotlin: 1.3.41 or later (on OpenJDK JRE 11.0.0 or later)
     + Python 3: 3.7.4 (CPython)
     + Python 2: 2.7.13 (PyPy 7.1.1)
 
