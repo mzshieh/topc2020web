@@ -1,14 +1,20 @@
+## Latest News
+
+因報名隊伍數量偏低，競賽延後至 2020 年 10 月 7 日星期三晚間 18:00 至 21:00。
+
+The contest is postponed to Octobor 7, 2020. The contest time is from 18:00 to 21:00.
+
 ## Overview
 
 1. **日期 Date** <br>
-   2020 年 9 月 12 日 星期六 <br>
-   Saturday, September 12, 2020
+   2020 年 10 月 7 日 星期六 <br>
+   Wednesday, October 7, 2020
 2. **地點 Place** <br>
-   線上：網站連結將於 2020 年 9 月 11 日之前公佈 <br>
-   Online: we will announce the link to the website before September 11, 2020.
+   線上：網站連結將於 2020 年 10 月 3 日之前公佈 <br>
+   Online: we will announce the link to the website before Octobor 3, 2020.
 3. **競賽時間 Contest Time** <br>
-   上午九點至中午十二點 (三小時) <br>
-   From 9:00 AM to 12:00 PM (3 hours)
+   晚上六點至九點 (三小時) <br>
+   From 6:00 PM to 9:00 PM (3 hours)
 4. **題組 Problem Set** <br>
    總題數至少七題，所有題目均為英文，三分之一可由 Python 3 解出。
    賽後將提供中文題解資料。<br>
