@@ -7,7 +7,7 @@ The contest is postponed to Octobor 7, 2020. The contest time is from 18:00 to 2
 ## Overview
 
 1. **日期 Date** <br>
-   2020 年 10 月 7 日 星期六 <br>
+   2020 年 10 月 7 日 星期三 <br>
    Wednesday, October 7, 2020
 2. **地點 Place** <br>
    線上：網站連結將於 2020 年 10 月 3 日之前公佈 <br>
