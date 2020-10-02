@@ -1,8 +1,8 @@
 ## Latest News
 
-因報名隊伍數量偏低，競賽延後至 2020 年 10 月 7 日星期三晚間 18:00 至 21:00。
+帳號、密碼、裁判網址等競賽資訊將於 10 月 5 日晚間 23:59 前寄出，如屆時仍未收到，請與主辦單位聯繫：topc2020@icpc.tw
 
-The contest is postponed to Octobor 7, 2020. The contest time is from 18:00 to 21:00.
+Contest information will be delivered before 23:59 on Octobor 5, 2020. If you have any concern, please contact us via email: topc2020@icpc.tw
 
 ## Overview
 
@@ -29,7 +29,7 @@ The contest is postponed to Octobor 7, 2020. The contest time is from 18:00 to 2
    Please visit the official website of the ICPC:<br>
    [https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020](https://icpc.baylor.edu/regionals/finder/Taiwan-Online-2020)
 6. **報名期限 Registration Deadline**<br>
-   2020 年 10 月 3 日 星期日
+   2020 年 10 月 3 日 星期六
    Sunday, October 3, 2020
 
 ## Eligibility
@@ -99,7 +99,7 @@ All malicious actions interfering the contest are prohibited.
 + **計分與排名 Scoring & Ranking** <br>
 隊伍以解題數量多者排名較前，解題數量相同時，以總消耗時間少者排名較前。
 答對的題目的消耗時間計算方式為比賽開始至解出題目所消耗的分鐘數。
-如解出前有答錯，每答錯一次需要另加20 分鐘。
+如解出前有答錯，每答錯一次需要另加 20 分鐘。
 總消耗時間為所有答對題目的消耗時間加總。未答對的題目不計消耗時間。<br>
 Teams are ranked according to the most problems solved. 
 Teams who solve the same number of problems are ranked by least total time. 
@@ -121,8 +121,8 @@ solution.
 2020 年 10 月 3 日<br>
 End of registration: October 3, 2020
 + **寄發隊伍帳號密碼：**<br>
-2020 年 10 月 4 日寄發給教練<br>
-Team account information will be delivered to the coach by October 4, 2020.
+2020 年 10 月 5 日寄發給教練<br>
+Team account information will be delivered to the coach by October 5, 2020.
 
 + **測試時間：**<br>
 2020 年 10 月 6 日 下午十二點三十分至十一點三十分 (台灣時間)<br>
@@ -135,23 +135,26 @@ Contest time: 18:00-21:00 on October 7, 2020 (GMT+8)
 ## Judge Environment
 
 + **Judge System**<br>
-DOMjudge 7.0 or later
+DOMjudge 7.3.0
 
-+ **Hardware**<br>
-To be determined
++ **Hardware for Judgehost**<br>
+Google Cloud Platform
+1 vCPU
+2GB RAM
+20GB HDD
 
 + **OS**<br>
-Linux 4.14 or Later
+Linux 
 
 + **Distribution**<br>
-To be determined
+Ubuntu 20.04
 
 + **Compilers / Interpreters**
-    + C/C++: GNU Compiler Collections 9.1.0 or later
-    + Java: OpenJDK 11.0.0 or later
-    + Kotlin: 1.3.41 or later (on OpenJDK JRE 11.0.0 or later)
-    + Python 3: 3.7.4 (CPython)
-    + Python 2: 2.7.13 (PyPy 7.1.1)
+    + C/C++: GNU Compiler Collections 9.3.0
+    + Java: OpenJDK 11.0.8
+    + Kotlin: 1.4.0 (on OpenJDK JRE 11.0.8)
+    + Python 3: 3.8.2 (CPython)
+    + Python 2: 2.7 (PyPy 7.3.1)
 
 + **Options for Compiler or Run-time Environment**
     + C++: `g++ -std=c++17 -x c++ -Wall -O2 -static -pipe`
