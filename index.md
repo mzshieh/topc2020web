@@ -129,7 +129,7 @@ Team account information will be delivered to the coach by October 4, 2020.
 Tentative practice session: 12:30-23:30 on October 6, 2020 (GMT+8)
 
 + **競賽時間：**<br>
-2020 年 10 月 7 日 上午九點至中午十二點 (台灣時間)<br>
+2020 年 10 月 7 日 晚間下午六點至九點 (台灣時間)<br>
 Contest time: 18:00-21:00 on October 7, 2020 (GMT+8)
 
 ## Judge Environment
