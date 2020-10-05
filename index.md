@@ -10,8 +10,8 @@ Contest information will be delivered before 23:59 on Octobor 5, 2020. If you ha
    2020 年 10 月 7 日 星期三 <br>
    Wednesday, October 7, 2020
 2. **地點 Place** <br>
-   線上：網站連結將於 2020 年 10 月 3 日之前公佈 <br>
-   Online: we will announce the link to the website before Octobor 3, 2020.
+   線上：[https://j.topc2020.icpc.tw/](https://j.topc2020.icpc.tw/) <br>
+   Online: [https://j.topc2020.icpc.tw/](https://j.topc2020.icpc.tw/)
 3. **競賽時間 Contest Time** <br>
    晚上六點至九點 (三小時) <br>
    From 6:00 PM to 9:00 PM (3 hours)
