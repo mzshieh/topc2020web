@@ -1,8 +1,8 @@
 ## Latest News
 
-帳號、密碼、裁判網址等競賽資訊將於 10 月 5 日晚間 23:59 前寄出，如屆時仍未收到，請與主辦單位聯繫：topc2020@icpc.tw
+帳號、密碼、裁判網址等競賽資已經寄出，如未收到，請與主辦單位聯繫：topc2020@icpc.tw
 
-Contest information will be delivered before 23:59 on Octobor 5, 2020. If you have any concern, please contact us via email: topc2020@icpc.tw
+Contest information has been delivered. If you have any concern, please contact us via email: topc2020@icpc.tw
 
 ## Overview
 
