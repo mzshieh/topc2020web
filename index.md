@@ -1,8 +1,8 @@
 ## Latest News
 
-帳號、密碼、裁判網址等競賽資已經寄出，如未收到，請與主辦單位聯繫：topc2020@icpc.tw
+帳號、密碼、裁判網址等競賽資已經寄出，如未收到，請與主辦單位聯繫：topc2020@icpc.tw。賽**前**教練需上傳已簽名文件，保證隊伍遵照規則進行比賽。
 
-Contest information has been delivered. If you have any concern, please contact us via email: topc2020@icpc.tw
+Contest information has been delivered. If you have any concern, please contact us via email: topc2020@icpc.tw. The coach has to submit a signed form to declare that the team abides by the rules. Please upload it before the contest.
 
 ## Overview
 
@@ -60,7 +60,7 @@ the society of competitive programming.
 
 ## Rules
 
-賽後教練需上傳表格保證該隊伍遵照規則進行比賽。
+賽前教練需上傳表格保證該隊伍遵照規則進行比賽。
 如違反下列規則，將導致參賽者失去參賽資格。<br>
 The coach has to submit a form to declare that the team abides by the rules 
 during the contest. Contestants will be disqualified if they violate the 
