@@ -1,8 +1,11 @@
 ## Latest News
 
-帳號、密碼、裁判網址等競賽資已經寄出，如未收到，請與主辦單位聯繫：topc2020@icpc.tw。賽**前**教練需上傳已簽名文件，保證隊伍遵照規則進行比賽。
+本次競賽事故報告：
+1. F 題面因稿件修改疏忽，以至於部分不該下標的文字下標，已在賽中透過 Clarification 更正，會更新再日後提供的題組資料中。
+2. E 題賽中初始版本 Checker 有錯誤，在 19:27 分時修正，有一支隊伍在那之前以錯誤的程式碼通過，其餘提交均無異常。依據慣例，該提交視為通過，不做更改。
+3. 本次競賽最後 45 分鐘因有大量提交，超乎事前預期，而本次競賽使用的免費 GCP 平台有硬體資源限制，僅能使用 20 台 judgehost ，造成部分提交等待的時間長達二十分鐘以上，在此主辦單位深表歉意。會記取教訓，傳承給未來主辦此項賽事的組織。
 
-Contest information has been delivered. If you have any concern, please contact us via email: topc2020@icpc.tw. The coach has to submit a signed form to declare that the team abides by the rules. Please upload it before the contest.
+目前的暫定的成績，仍在[裁判系統](https://j.topc2020.icpc.tw/)上，開放至 10 月 11 日晚間 23:59:59 ，最終成績會公布在本官網以及上傳至[總部](https://icpc.global/)。
 
 ## Overview
 
