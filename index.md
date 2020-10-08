@@ -1,6 +1,11 @@
 ## Latest News
 
-本次競賽事故報告：
+本次競賽題組(含測試資料與判定程式)與參考程式碼可在[此處下載](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing)。
+
+The problem archives and sample codes can be found [here](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing).
+
+## 本次競賽初步事故報告
+
 1. F 題面因稿件修改疏忽，部分不該下標的文字下標，已在賽中透過 Clarification 更正，日後提供的題組資料也會修正。
 2. E 題賽中初始版本 Checker 有錯誤，在 19:27 分時修正，有一支隊伍在那之前以錯誤的程式碼通過，其餘提交均無異常。依據慣例，該提交視為通過，不做更改。
 3. 本次競賽最後 45 分鐘因有大量提交，超乎事前預期，而本次競賽使用的免費 GCP 平台有硬體資源限制，僅能使用 20 台 judgehost ，造成部分提交等待的時間長達二十分鐘以上，在此主辦單位深表歉意。會記取教訓，傳承給未來主辦此項賽事的組織。
