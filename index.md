@@ -1,8 +1,11 @@
 ## Latest News
 
-本次競賽題組(含測試資料與判定程式)與參考程式碼可在[此處下載](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing)。
++ 本次競賽題組(含測試資料與判定程式)與參考程式碼可在[此處下載](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing)。
+  The problem archives and sample codes can be found [here](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing).
+  
++ [競賽事故彙整與提問回覆說明](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HJ9FBYh8D)
 
-The problem archives and sample codes can be found [here](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing).
++ 中文簡易題解將於近日公佈。
 
 ## 本次競賽初步事故報告
 
