@@ -1,5 +1,8 @@
 ## Latest News
 
++ [最終排名](/image/2020_TOPC_standings.png)
+  [Final standings](/image/2020_TOPC_standings.png)
+
 + 本次競賽題組(含測試資料與判定程式)與參考程式碼可在[此處下載](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing)。
   The problem archives and sample codes can be found [here](https://drive.google.com/drive/folders/1q9I8o1v_HEY_-rzy_boflOL_jNx7ODF9?usp=sharing).
   
