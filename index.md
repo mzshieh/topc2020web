@@ -8,7 +8,7 @@
   
 + [競賽事故彙整與提問回覆說明](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HJ9FBYh8D)
 
-+ 中文簡易題解將於近日公佈。
++ [中文簡易題解](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJQQlyJDP)
 
 ## 本次競賽初步事故報告
 
